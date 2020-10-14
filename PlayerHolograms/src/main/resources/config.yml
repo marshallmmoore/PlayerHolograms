@@ -1,0 +1,5 @@
+Groups:
+  admin:
+    permissions:
+      - adminmenu.open
+      - pholo.new

@@ -1,0 +1,13 @@
+com\yahoo\marshallmoore55\playerholograms\Commands\pholoCommand.class
+com\yahoo\marshallmoore55\playerholograms\Util\HologramObject.class
+com\yahoo\marshallmoore55\playerholograms\Util\PermissionsDatabase.class
+com\yahoo\marshallmoore55\playerholograms\AdminMenu.class
+com\yahoo\marshallmoore55\playerholograms\Events\JoinEvent.class
+com\yahoo\marshallmoore55\playerholograms\Main.class
+com\yahoo\marshallmoore55\playerholograms\Events\RightClickHologramEvent.class
+com\yahoo\marshallmoore55\playerholograms\RenterMenu.class
+com\yahoo\marshallmoore55\playerholograms\Util\ConversationPrompt.class
+com\yahoo\marshallmoore55\playerholograms\OwnerMenu.class
+com\yahoo\marshallmoore55\playerholograms\Permissions.class
+com\yahoo\marshallmoore55\playerholograms\Events\LeaveEvent.class
+com\yahoo\marshallmoore55\playerholograms\Util\HologramDatabase.class
